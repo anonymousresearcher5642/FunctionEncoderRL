@@ -4,10 +4,10 @@ This repo is the official, anonymous codebase for the paper "Zero-Shot Reinforce
 
 The code consists of the following four examples, each of which is effectively a seperate project with its own dependencies:
 1. Minimum working example
-   2. Start here for the most basic example of training a function encoder on simple data.
-2. Multi-task RL
-3. Multi-agent RL
-4. Hidden-parameter System Identification
+   1. Start here for the most basic example of training a function encoder on simple data.
+3. Multi-task RL
+4. Multi-agent RL
+5. Hidden-parameter System Identification
 
 See each project directory for its own README. 
 
